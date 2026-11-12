@@ -49,4 +49,19 @@ https://github.com/eloistree/G128x64
 L'atelier est prévu pendant les vacances, du lundi 26 avril 2027 au dimanche 9 mai 2027, à La Louvière.    
 Mais il peut également être organisé occasionnellement dans d'autres espaces accessibles en train en Belgique.  
 
+----- 
+
+# Planning
+
+
+| Jour     | Matin                                         | Midi                                          |
+| -------- | --------------------------------------------- | --------------------------------------------- |
+| Lundi    | Jouer avec les voitures et sa télécommande IR | Tourner et avancer avec du Python et du texte |
+| Mardi    | Un bouton pour avancer et tourner avec Godot  | C'est plus simple avec une manette NES        |
+| Mercredi | Apprendre à scripter un mouvement             | Concours sans les mains                       |
+| Jeudi    | Allumons les lumières                         | Faire une voiture pour chez vous ?            |
+| Vendredi | Donnons des émotions à nos voiturettes        | Testons une simulation de la voiture en VR    |
+
+**Va changer dans le futur et peut changer pendant l'atelier selon le niveau du groupe.**
+
 
